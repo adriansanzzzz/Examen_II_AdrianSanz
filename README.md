@@ -1,5 +1,7 @@
 # Examen_II_AdrianSanz
-
+Adrian Sanz
+## Asignatura: Interfaces Inteligentes
+## Adrián Sanz Fernández - alu0101686400@ull.edu.es
 
 ## 1 - Crear una escena en la que el entorno se construya con el paquete The Shed de la Asset Store. Debes incluir al menos 3 arañas del paquete Free Fantasy Spider distribuidas por toda la habitación. Incluir un personaje del paquete Hungry Zombie. 
 He añadido box collider a todos los nuevos objetos, ya que no lo tenian, y mesh collider al suelo para evitar que los objetos se cayeran al vacio.
