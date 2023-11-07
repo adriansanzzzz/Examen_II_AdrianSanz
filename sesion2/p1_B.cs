@@ -11,7 +11,7 @@ public class p1_B : MonoBehaviour
     public static event CollisionHandler DefaultSilla;
 
 
-    private float distance = 0.5f;  // Debes declarar 'distance' como una variable de tipo float
+    private float distance = 0.5f;  
     private float posicion;
 
     private Vector3 pos_inicial;
